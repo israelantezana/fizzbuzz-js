@@ -1,4 +1,5 @@
-###Reglas del ejercicio FizzBuzz
+#### Reglas del ejercicio FizzBuzz:
+
 Se le pide al usuario que ingrese por pantalla un número. Y nuestro programa deberá imprimir la secuencia de números hasta el número ingresado por el usuario.
 Para imprimir los números hay ciertas reglas:
   Si el número es 3 o múltiplo de 3 se imprime Fizz
